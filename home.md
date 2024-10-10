@@ -10,6 +10,8 @@ This website is made for the OpenBox 3D Printable Electrical Box project!  Every
 
 ► Go to [Designs](designs.md)
 
+![mainimage](img/img_assembly2.jpg)
+
 ---
 
 ## Downloads & More
