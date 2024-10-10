@@ -1,4 +1,4 @@
-![](/images/img_banner_gallery_trim.jpg ':class=header-image-full-width')
+![mybanner](/img/banner.jpg ':class=header-image-full-width')
 
 # Home
 
@@ -6,9 +6,9 @@ This website is made for the OpenBox 3D Printable Electrical Box project!  Every
 
 ► Go to [Gallery](gallery.md)
 
-► Go to [Tutorials](designs.md)
+► Go to [Downloads](downloads.md)
 
-► Go to [topic-3](topic-3.md)
+► Go to [Designs](designs.md)
 
 ---
 
@@ -16,4 +16,4 @@ This website is made for the OpenBox 3D Printable Electrical Box project!  Every
 
 
 * [GrabCAD Publication](https://grabcad.com/library/openbox-1) CAD downloads
-* [OpenJar on Github](https://github.com/dmalawey/openBox) github repository
+* [OpenBox on Github](https://github.com/dmalawey/openBox) github repository
