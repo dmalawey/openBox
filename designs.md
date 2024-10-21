@@ -3,7 +3,13 @@ The purpose of Handybox is to benefit several types of projects with one standar
 I Hope you benefit from the concepts here - even without building any handybox designs you will find some techniques that save time in CAD, prototyping, wiring, or creating new concepts for designs.
 
 # Videos
-To be populated from my youtube videos soon.
+To be populated as I create videos to explain features.
+
+## Build a Car Adapter
+
+<iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 # Parts
 Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans.
@@ -16,5 +22,9 @@ Main components around which the other parts are designed.
 * Switches, 22mm, toggle switches
 * Outlets, ordinary 120v North America standard
 
+## HandyMount
+Mount your boxes to your DIN rail, multiple orientations & box sizes.
 
-\\ <iframe width="1250" height="703" src="https://www.youtube.com/embed/31hwwpmNlCo" title="More about USB than you ever wanted to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![handyMount](https://github.com/user-attachments/assets/920e28c6-80b8-4301-968d-de2845a30da9)
+
+This bracket is parametric, with configurations shown in the animated GIF. The narrow option has 1-in spacing for the 1-gang box and the wide option matches the 1.5in spacing of the square boxes found in local stores.
