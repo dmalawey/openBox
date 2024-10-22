@@ -28,3 +28,13 @@ Mount your boxes to your DIN rail, multiple orientations & box sizes.
 ![handyMount](https://github.com/user-attachments/assets/920e28c6-80b8-4301-968d-de2845a30da9)
 
 This bracket is parametric, with configurations shown in the animated GIF. The narrow option has 1-in spacing for the 1-gang box and the wide option matches the 1.5in spacing of the square boxes found in local stores.
+
+## Bushing
+A feature for electrical and for mechanical function
+
+![img_eBushing1](https://github.com/user-attachments/assets/84268de3-2954-4cb2-bd8d-b86bb7608e46)
+
+
+Version 1 is adapted for fixing anderson connectors into the wall of a panel.
+
+It can be adjusted for different hole sizes, or different center features.  You may wish to use it as a grommet, or adapter for a 10mm pushbutton, or 100 other items.  The idea is that a new user gains a new function but retains the investment of the code behind the nicely made parametric part.  The feature tree is easy to navigate, so you may update the design without knowledge of all the original design considerations. (just like open source software).
