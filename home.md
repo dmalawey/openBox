@@ -47,3 +47,11 @@ _technical sheets published by manufacturers_
 _dimensional drawings by manufacturers (Raco & more)_
 
 We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (such as Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
+
+## More Projects by David
+
+* [openJar](https://bit.ly/openjarproject)
+* [openBox](https://bit.ly/openboxproject)
+* [openSpin](https://qr.page/g/2VtU8nxHXhN)
+* [openArm](https://qr.page/g/2wY5JrxcciD)
+* [mechatronics resources](https://qr.page/g/4ZptmdWxn5y)
