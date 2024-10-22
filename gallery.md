@@ -18,4 +18,6 @@ Switches with 22mm circle snap right into place.
 ![switchbox2](img/img_switchbox2.jpg)
 
 ## Embedded Electronics
-coming soon
+We will feature arduino & other MCU based projects but here's the start, with a project for car adapter & embedded power control found in a PD adapter.
+
+![car adapter box](img/IMG_0158.jpeg)
