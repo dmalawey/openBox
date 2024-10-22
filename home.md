@@ -1,7 +1,10 @@
 ## Home
-
 This website is made for the OpenBox 3D Printable Electrical Box project!  Everyone is invited to use these designs or contribute to this design on GitHub.  Design data will be posted on grabCAD.com starting with [handybox](https://grabcad.com/library/handybox-1) and ongoing continually.
 
+**Short Link as of 2024.10**
+https://bit.ly/openboxproject
+
+**Example Usage***
 Here's just one video lesson of many to come:
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
