@@ -12,9 +12,11 @@
 ## CAD models
 _Links to open source CAD_
 
-> Handybox, parametric design based on raco electrical conduit box ► [https://grabcad.com/library/handybox-1](https://grabcad.com/library/handybox-1)
+> Handybox, parametric design based on raco electrical conduit box ► [grabcad handybox-1](https://grabcad.com/library/handybox-1)
 >
-> OpenBox v1, containing models to support attachments ► [https://grabcad.com/library/openbox-1](https://grabcad.com/library/openbox-1)
+> OpenBox v1, containing models to support attachments ► [grabcad openbox-1](https://grabcad.com/library/openbox-1)
+>
+> eBushing v1, for fitting anderson connector to hole ► [grabCAD ebushing-1](https://grabcad.com/library/ebushing-1)
 > 
 
 
