@@ -1,8 +1,9 @@
-## Home
+## What is it?
+Openbox is a collection of inventions based on a "handy box," a cheap standard part found in American hardware stores.  At about $1.80 each, this box can outperform many alternatives for it's thermal properties, rigidity, dead weight, and availability of attachments that don't require any effort at all.  This collection is intended to crack open your imagination, especially for 3D printer enthusiasts who want to create projects that demand stronger components than plain plastic.
+
 This website is made for the OpenBox 3D Printable Electrical Box project!  Everyone is invited to use these designs or contribute to this design on GitHub.  Design data will be posted on grabCAD.com starting with [handybox](https://grabcad.com/library/handybox-1) and ongoing continually.
 
-**Short Link as of 2024.10**
-https://bit.ly/openboxproject
+_Latest short link ► https://bit.ly/openboxproject_
 
 **Example Usage***
 Here's just one video lesson of many to come:
