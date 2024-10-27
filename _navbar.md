@@ -1,4 +1,2 @@
 * [Home](home.md)
-* [Gallery](gallery.md)
-* [Designs](designs.md)
-* [Downloads](downloads.md)
+* [Github](https://github.com/dmalawey/openBox)
