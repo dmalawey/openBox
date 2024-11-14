@@ -1,13 +1,10 @@
 ## What is it?
 Openbox is a collection of inventions based on a "handy box," a cheap standard part found in American hardware stores.  At about $1.80 each, this box can outperform many alternatives for it's thermal properties, rigidity, dead weight, and availability of attachments that don't require any effort at all.  This collection is intended to crack open your imagination, especially for 3D printer enthusiasts who want to create projects that demand stronger components than plain plastic.
 
-This website is made for the OpenBox 3D Printable Electrical Box project!  Everyone is invited to use these designs or contribute to this design on GitHub.  Design data will be posted on grabCAD.com starting with [handybox](https://grabcad.com/library/handybox-1) and ongoing continually.
+Everyone is invited to use these designs or contribute to this design on GitHub.  Design data will be posted on grabCAD.com starting with [handybox](https://grabcad.com/library/handybox-1) and ongoing continually.
 
 _Latest short link ► https://bit.ly/openboxproject_
 
-**Example Usage***
-Here's just one video lesson of many to come:
-<iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## More Open Projects
 More Open Source designs initiated by DM & SCUTTLE team:
@@ -21,6 +18,11 @@ More Open Source designs initiated by DM & SCUTTLE team:
 
 ### Explore
 If you don't like reading, just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
+
+
+**Example Usage***
+How do you work with OpenBox? Here's one video lesson, of many to come:
+<iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Contribute
 There are no rules!  But here's an invitation to help in the best ways: As with all of my open projects my aim is to initiate but not to create all outcomes.  As I build modules that support my electronics teaching, robotics, and so on I invite others to create items from their imagination & share them as well.  Every author can decide their own path.  I prefer to share on GrabCAD but Printables and other sites are great too.  Github is not highly popular among mechanical designers but it's great for documentation so I invite you to comment as a github user, join the project as a collaborator, or post an issue as a user that can centralize the needs for ongoing development!  
