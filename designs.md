@@ -38,3 +38,22 @@ A feature for electrical and for mechanical function
 Version 1 is adapted for fixing anderson connectors into the wall of a panel.
 
 It can be adjusted for different hole sizes, or different center features.  You may wish to use it as a grommet, or adapter for a 10mm pushbutton, or 100 other items.  The idea is that a new user gains a new function but retains the investment of the code behind the nicely made parametric part.  The feature tree is easy to navigate, so you may update the design without knowledge of all the original design considerations. (just like open source software).
+
+# Benchmarks
+
+## Design Catalog
+Below I've attached a catlog for only the Raco design collection since it took some digging to find what I needed.  There are several other brands worth exploring but we need to start somewhere!  If you find a key resource for which you base your open source design, please let us know and we can post it here as well.
+
+>
+> Raco Catalog ► [download (100mb)](https://lobfile.com/file/TMfW62ny.pdf)
+> ![img_catalog](https://github.com/user-attachments/assets/a8fa3034-0ac3-4897-b0b1-f89954ef0aba)
+> _The catalog has great ideas for attachments, conduit, and box styles._
+
+
+## Datasheets
+Online you can find datasheets for hundreds of boxes and attachments but the first few drawings I used to build the initial models are combined in one PDF for you to grab below.
+>
+> Handybox tech sheet ► [raco pdf](https://lobfile.com/file/3WwS7t4m.pdf)
+> ![img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7)
+> _see material properties, dimensions, & more_
+>
