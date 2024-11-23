@@ -18,13 +18,3 @@ _Links to open source CAD_
 >
 > eBushing v1, for fitting anderson connector to hole ► [grabCAD ebushing-1](https://grabcad.com/library/ebushing-1)
 > 
-
-
-
-## Data
-_datasheets & technical documents_
-
-> Raco Catalog ► [download 100mb](https://lobfile.com/file/TMfW62ny.pdf)
->
-> Raco Handybox tech sheet ► [raco pdf](https://lobfile.com/file/3WwS7t4m.pdf)
-> 
