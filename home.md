@@ -1,4 +1,4 @@
-## OpenBox Design Project
+## OpenBox Project
 Openbox is a collection of inventions based on a "handy box," a cheap standard part found in American hardware stores.  At about $1.80 each, this box can outperform many alternatives for it's thermal properties, rigidity, dead weight, and availability of attachments that don't require any effort at all.  This collection is intended to crack open your imagination, especially for 3D printer enthusiasts who want to create projects that demand stronger components than plain plastic.
 ![img_banner](https://github.com/user-attachments/assets/ffa113f2-2e5e-4a40-9aae-9c9a140e232c)
 
@@ -7,7 +7,7 @@ Everyone is invited to use these designs or contribute to this design on GitHub.
 _Latest short link ► https://bit.ly/openboxproject_
 
 
-## More Open Projects
+## More Projects
 More Open Source designs initiated by DM & SCUTTLE team:
 * [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
 * [Mechatronics Resources](https://bit.ly/openmechatronics)
@@ -18,7 +18,7 @@ More Open Source designs initiated by DM & SCUTTLE team:
 * [OpenAir](https://bit.ly/openairproject)
 
 ### Explore
-If you don't like reading, just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
+Don't like reading? just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
 
 
 **Example Usage***
@@ -32,7 +32,11 @@ I also will continue posting related items on my youtube (david malawey) so user
 
 ![main_image](img/img_assembly2.jpg) 
 
-quick preview of example use case
+### Limitations
+There are no limits.  The example below is a countertop shaver rack, just to show a use case.  The "handybox" brings value to other designs such as:
+* desirable mass, eliminates tipping
+* handhed size accomodates common needs
+* steel, offers high strength & magnetic function
 
 ![demo1](img/img_demo1.jpg 'class=image-25')
 
