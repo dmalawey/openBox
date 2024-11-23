@@ -52,8 +52,16 @@ The heavy steel stamping is a perfect starting point for many mechanical designs
 ### Interfacing
 
 
-## Data:
-_data to support engineering & development_
+## Data
+
+The OpenBox project was originally created using specifications based on the handy box commonly found in the United States. To open this project to a broader audience, we are expanding its scope and documenting handy box specifications from different countries. Below, you’ll find detailed information for each country to ensure compatibility and usability.
+
+If you’d like to contribute to this effort, don’t hesitate to join us! Your input can help make the OpenBox project more versatile and accessible for everyone.
+
+### USA Handy Box Specifications
+
+- Dimensions: 4” x 2” x 1-7/8” (16.5 cubic inches)
+-	Designed for standard NEC (National Electrical Code) compliance.
 
 ![image techsheet](img/img_racoData1.jpg 'class=image-25')
 _technical sheets published by manufacturers_
@@ -61,4 +69,15 @@ _technical sheets published by manufacturers_
 ![img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6)
 _dimensional drawings by manufacturers (Raco & more)_
 
+
 We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (such as Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
+
+### Canadian Handy Box Specifications
+
+-  4” x 2-3/8” x 1-7/8” (16.5 cubic inches)
+- Designed for the Canadian Electrical Code (CEC) standards.
+- The key difference in the brackets is that the USA version uses straight mounting brackets, while the Canadian version features angled brackets, requiring design adjustments for compatibility.
+
+### Get Involved
+
+We’re working to expand the OpenBox project to include specifications from more regions and make it useful for everyone. If you have knowledge, resources, or ideas to contribute, we’d love to collaborate! Let’s work together to grow this project and support makers around the world.
