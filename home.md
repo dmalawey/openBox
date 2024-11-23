@@ -74,15 +74,16 @@ We don't have a specific structure for posting data but as I accumulate useful d
 
 ### Canadian Handy Box Specifications
 
-The main manufacturer of handy boxes commonly found in Canadian hardware stores is ABB, under their Iberville brand: https://new.abb.com/products/7TBA126550R0000/1110-crt While these boxes are widely used and recognized, ABB has not yet provided a detailed data sheet for the Iberville handy box. This lack of official specifications presents a challenge for precise design adaptations, but we are working to gather the necessary details through direct measurements and other resources.
+The main manufacturer of handy boxes commonly found in Canadian hardware stores is ABB, under their Iberville brand: [2020-CRT](https://new.abb.com/products/7TBA126550R0005/2020-crt) While these boxes are widely used and recognized, ABB has not yet provided a detailed data sheet for the Iberville handy box. This lack of official specifications presents a challenge for precise design adaptations, but we are working to gather the necessary details through direct measurements and other resources.
+
+- Designed for the Canadian Electrical Code (CEC) standards.
+- The key difference in the brackets is that the USA version uses straight mounting brackets, while the Canadian version features angled brackets, requiring design adjustments for compatibility.
+
+### 4” x 2-3/8” x 1-7/8” (16.5 cubic inches)
 
 ![Main Manufacturer Image1](img/9PAA00000107738_400x400.jpg)
 ![Main Manufacturer Image2](img/9PAA00000107740_400x400.jpg)
 ![Main Manufacturer Image3](img/9PAA00000107739_400x400.jpg)
-
--  4” x 2-3/8” x 1-7/8” (16.5 cubic inches)
-- Designed for the Canadian Electrical Code (CEC) standards.
-- The key difference in the brackets is that the USA version uses straight mounting brackets, while the Canadian version features angled brackets, requiring design adjustments for compatibility.
 
 ### Get Involved
 
