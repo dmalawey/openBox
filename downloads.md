@@ -3,7 +3,7 @@ The GitHub repository https://github.com/dmalawey/openBox/tree/main serves as th
 ## CAD models
 _Links to open source CAD_
 
-You can find OpenBox-related CAD files by [searching “OpenBox” on GrabCAD](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox). Among the results, you’ll discover the original contributions by David Malawey, which include detailed CAD models and essential designs for the OpenBox project. These files serve as the foundation for the project, offering users a reliable starting point for building or customizing their own versions of the OpenBox.
+You can find OpenBox-related CAD files by [searching “OpenBox” on GrabCAD](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox) and also on [Thangs](https://thangs.com/designer/bmeunier/collection/OpenBox-97771). Among the results, you’ll discover the original contributions by David Malawey, which include detailed CAD models and essential designs for the OpenBox project. These files serve as the foundation for the project, offering users a reliable starting point for building or customizing their own versions of the OpenBox.
 
 In addition to the original contributions, GrabCAD also features various remixes and adaptations created by the global community. These include innovative modifications, such as HandyBox designs compatible with other countries’ standards, and other creative uses tailored to specific needs.
 
@@ -30,4 +30,5 @@ https://grabcad.com/library/ebushing-1
 This library is a remix of the original OpenBox project by David Malawey, adapted for the Canadian version of the HandyBox. While the technical requirements closely resemble the original HandyBox designed for the U.S. market, specific differences exist, resulting in slight variations in design. The aim of this library is to replicate key components from David Malawey’s original work, creating a strong foundation for future modifications and applications.
 
 - .STEP files on GrabCad: https://grabcad.com/library/openbox-cec-compliant-remix-library-canadian-1
+- [https://thangs.com/mythangs/file/1207801](https://thangs.com/designer/bmeunier/collection/OpenBox-97771)
 - Autodesk Fusion: https://github.com/dmalawey/openBox/blob/d60093aeba41cf989fe9893492d6be2d1079c27c/data/OpenBox%20Canada-Compliant%20Remix%20Library.f3z
