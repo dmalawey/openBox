@@ -29,4 +29,5 @@ https://grabcad.com/library/ebushing-1
 
 This library is a remix of the original OpenBox project by David Malawey, adapted for the Canadian version of the HandyBox. While the technical requirements closely resemble the original HandyBox designed for the U.S. market, specific differences exist, resulting in slight variations in design. The aim of this library is to replicate key components from David Malawey’s original work, creating a strong foundation for future modifications and applications.
 
-https://grabcad.com/library/openbox-cec-compliant-remix-library-canadian-1
+- .STEP files on GrabCad: https://grabcad.com/library/openbox-cec-compliant-remix-library-canadian-1
+- Autodesk Fusion: https://github.com/dmalawey/openBox/blob/d60093aeba41cf989fe9893492d6be2d1079c27c/data/OpenBox%20Canada-Compliant%20Remix%20Library.f3z
