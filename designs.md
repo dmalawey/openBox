@@ -22,6 +22,11 @@ Main components around which the other parts are designed.
 * Switches, 22mm, toggle switches
 * Outlets, ordinary 120v North America standard
 
+## Large Box
+The large box is uploaded as a "configuration" of the solidworks model, in grabCAD.  It's a square box, sometimes sold with 4 tabs for 2-gang configuration.
+![handybox](https://github.com/user-attachments/assets/0e74d687-8dab-4486-bea9-78ceadb83627)
+
+
 ## HandyMount
 Mount your boxes to your DIN rail, multiple orientations & box sizes.
 
