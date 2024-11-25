@@ -1,4 +1,12 @@
-## Organizers & Tools
+## Purpose
+How to use this gallery?  
+1) If you want to make a print or a design, start here and just make a quick review of some designs.  There are many designs, some are deeply documented, and many are photographed.  So, the gallery is easiest to update when we produce new items.  
+2) Find your idea here and then check for more documentation & designs in the other sections.
+3) If you see an item in the gallery but not documented, just send a question.  Use a comment on grabCAD, ask in David's discord, or post an issue here in the Github repository.  Then, the designers can find you and reply.
+
+Enjoy!
+
+## Organizers
 Designs for holding your toos & equipment & securing them where needed.
 
 Overview of some tool holders made with HandyBox, for custom fitment of various round shank sizes.
