@@ -42,3 +42,9 @@ _full assembly with Ridgid tool battery, 18v, and adapter setup_
 ## Cable Routing
 
 The handy bushing design holds a wire or a plug in place, such as Anderson Powerwerx connectors.   It was designed by benchmarking the similar off-the-shelf designs.  The OTS bushings work great but we gain custom features by making our own.
+![bushing img2](img/img_bushing2.JPG)
+_handy bushing next to OTS part with similar function_
+
+![bushing img1](img/img_bushing1.JPG)
+_handy bushing shown placed into the box, 1/2in trade size hole around 22mm_
+
