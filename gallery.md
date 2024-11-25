@@ -1,4 +1,8 @@
 ## Organizers & Tools
+Designs for holding your toos & equipment & securing them where needed.
+
+Overview of some tool holders made with HandyBox, for custom fitment of various round shank sizes.
+![tools pic1](img/img_tools1.JPG)
 
 Use the box with a magnet (designed for unistrut assemblies) for storing within reach.
 ![magnet holder](img/img_magnet.jpg)
