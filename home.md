@@ -16,6 +16,7 @@ More Open Source designs initiated by DM & SCUTTLE team:
 * [OpenBox](https://bit.ly/openboxproject)
 * [OpenSpin](https:/bit.ly/openspinproject)
 * [OpenAir](https://bit.ly/openairproject)
+* [OpenLab](https://bit.ly/openlabproject)
 
 ### Explore
 Don't like reading? just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
