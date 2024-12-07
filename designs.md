@@ -9,8 +9,6 @@ To be populated as I create videos to explain features.
 
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 # Parts
 Components, methods, and considerations for organizing wires in projects.  It's best to watch this before you design, so you can discover parts to integrate in your project plans.
 
@@ -53,23 +51,58 @@ Every good design begins with an evaluation stage.  If you want to invent someth
 
 In the benchmarking process for an OpenBox-related design, start with the catalog & technical drawings below.
 
+
 ## Design Catalog
-Below I've attached a catlog for only the Raco design collection since it took some digging to find what I needed.  There are several other brands worth exploring but we need to start somewhere!  If you find a key resource for which you base your open source design, please let us know and we can post it here as well.
 
->
-> Raco Catalog ► [download (100mb)](https://lobfile.com/file/TMfW62ny.pdf)
->
-> ![img_catalog](https://github.com/user-attachments/assets/a8fa3034-0ac3-4897-b0b1-f89954ef0aba)
->
-> _The catalog has great ideas for attachments, conduit, and box styles._
+### USA Handy Box Specifications by Brands
+
+#### 666 CUS by RACO (4” x 2” x 1-7/8”)
+
+![666 CUS Manufacturer Image](https://do1jvmih5t6vs.cloudfront.net/userfiles/ad/large/raco_666.jpg)
+
+- 4 in. x 2 in. Handy Box, Drawn, 1-7/8 in. Deep with Seven 1/2 & One 3/4 in. KO's, Raised Ground
+- [download (100mb)](https://lobfile.com/file/TMfW62ny.pdf)
+- [img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7) _see material properties, dimensions, & more_
+- [image techsheet](img/img_racoData1.jpg 'class=image-25') _technical sheets published by manufacturers_
+- [img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6) _dimensional drawings by manufacturers (Raco & more)_
+
+We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (suchas Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
+
+### Canadian Handy Box Specifications by Brands
+
+The key difference in the brackets is that the USA version uses straight mounting brackets, while the Canadian version features angled brackets, requiring design adjustments for compatibility. They also are designed for the Canadian Electrical Code (CEC) standards.
+
+#### [2020-CRT](https://new.abb.com/products/7TBA126550R0005/2020-crt) by Iberville (4” x 2-3/8” x 1-7/8”)
+
+![2020-CRT Manufacturer Image](https://cdn.productimages.abb.com/bc2020_ib2ph_1_400x400.jpg)
+
+- [2020-CRT](https://new.abb.com/products/7TBA126550R0005/2020-crt) While these boxes are widely used and recognized, ABB has not yet provided a detailed data sheet for the Iberville handy box. This lack of official specifications presents a challenge for precise design adaptations, but we are working to gather the necessary details through direct measurements and other resources.
+- https://new.abb.com/products/7TBA126550R0005/2020-crt
+
+#### [1110CN](https://www.hubbell.com/hubbellcanada/en/products/utility-box-1-78-in-deep-16-5-cu-in-with-raised-ground-screw-12-in-ko-50-pack-1110cn/p/4664370) by TradeSelect (4" x 2-1/2" x x 1-7/8")
+
+![1110CN Manufacturer Image](https://cdn-e.soneparcanada.io/PIM_Docs/Docs/STEP_ASSETS_IMG/340040973.jpg)
+
+- Utility Box, 1-7/8 in. Deep, 16.5 Cu. In., with Raised Ground Screw, 1/2 in. KO
+- [Datasheet](https://hubbellcdn.com/salesdrawings/1110CN.pdf)
+- https://www.hubbell.com/hubbellcanada/en/products/utility-box-1-78-in-deep-16-5-cu-in-with-raised-ground-screw-12-in-ko-50-pack-1110cn/p/4664370
+
+### [72171K](https://www.hubbell.com/hubbellcanada/en/products/4-square-box-2-deep-ko-30-pack-72171kbar/p/4674800) by TradeSelect (4.688'' X2.125'' K)
+
+- 4-11/16 In. Square Box, 2-1/8 in. Deep, 42 Cu. In., with Raised Ground Screw, with Concentric, 1/2 & 3/4 in. KO
+- [Datasheet](https://hubbellcdn.com/salesdrawings/72171K.pdf)
+- https://www.hubbell.com/hubbellcanada/en/products/4-square-box-2-deep-ko-30-pack-72171kbar/p/4674800
+
+### 52171K by TradeSelect (4X4" x 2.125" x ?)
+
+- 4-11/16 In. Square Box, 2-1/8 in. Deep, 42 Cu. In., with Raised Ground Screw, with Concentric, 1/2 & 3/4 in. KO
+- [Datasheet](https://hubbellcdn.com/salesdrawings/52171K.pdf)
+- https://www.hubbell.com/hubbellcanada/en/products/4-1116-in-square-box-2-18-in-deep-42-cu-in-with-raised-ground-screw-with-concentric-12-34-in-ko-30-pack-72171k/p/4674798
 
 
-## Datasheets
-Online you can find datasheets for hundreds of boxes and attachments but the first few drawings I used to build the initial models are combined in one PDF for you to grab below.
->
-> Handybox tech sheet ► [raco pdf](https://lobfile.com/file/3WwS7t4m.pdf)
->
-> ![img_technicalData1](https://github.com/user-attachments/assets/8c5ebed6-eeb9-4228-b587-385ee21200a7)
->
-> _see material properties, dimensions, & more_
->
+
+
+
+
+
+
