@@ -81,7 +81,7 @@ The key difference in the brackets is that the USA version uses straight mountin
 
 #### [1110CN](https://www.hubbell.com/hubbellcanada/en/products/utility-box-1-78-in-deep-16-5-cu-in-with-raised-ground-screw-12-in-ko-50-pack-1110cn/p/4664370) by TradeSelect (4" x 2-1/2" x x 1-7/8")
 
-![1110CN Manufacturer Image](https://cdn-e.soneparcanada.io/PIM_Docs/Docs/STEP_ASSETS_IMG/340040973.jpg)
+![1110CN Manufacturer Image](img/1110.png)
 
 - Utility Box, 1-7/8 in. Deep, 16.5 Cu. In., with Raised Ground Screw, 1/2 in. KO
 - [Datasheet](https://hubbellcdn.com/salesdrawings/1110CN.pdf)
@@ -89,13 +89,18 @@ The key difference in the brackets is that the USA version uses straight mountin
 
 ### [72171K](https://www.hubbell.com/hubbellcanada/en/products/4-square-box-2-deep-ko-30-pack-72171kbar/p/4674800) by TradeSelect (4.688'' X2.125'' K)
 
+![72171K Manufacturer Image](img/72171K.png)
+
 - 4-11/16 In. Square Box, 2-1/8 in. Deep, 42 Cu. In., with Raised Ground Screw, with Concentric, 1/2 & 3/4 in. KO
 - [Datasheet](https://hubbellcdn.com/salesdrawings/72171K.pdf)
 - https://www.hubbell.com/hubbellcanada/en/products/4-square-box-2-deep-ko-30-pack-72171kbar/p/4674800
 
 ### 52171K by TradeSelect (4X4" x 2.125" x ?)
 
-- 4-11/16 In. Square Box, 2-1/8 in. Deep, 42 Cu. In., with Raised Ground Screw, with Concentric, 1/2 & 3/4 in. KO
+![52171K](img/52171K.png)
+
+
+- 4 In. Square Box, 2-1/8 in. Deep, 30 Cu. In., with Raised Ground Screw, with Concentric, 1/2 & 3/4 in. KO
 - [Datasheet](https://hubbellcdn.com/salesdrawings/52171K.pdf)
 - https://www.hubbell.com/hubbellcanada/en/products/4-1116-in-square-box-2-18-in-deep-42-cu-in-with-raised-ground-screw-with-concentric-12-34-in-ko-30-pack-72171k/p/4674798
 
