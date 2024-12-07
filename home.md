@@ -55,36 +55,20 @@ The heavy steel stamping is a perfect starting point for many mechanical designs
 
 ## Data
 
+The OpenBox project is designed to document and standardize specifications for small utility boxes commonly used in various countries. While the 4” x 2” x 1-7/8” (16.5 cubic inches) dimensions serve as a relative standard for the small utility box, specifications can vary depending on manufacturers and regions.
+
+General Handy Box Specifications
+
+- Standard Dimensions: 4” x 2” x 1-7/8” (16.5 cubic inches)
+- Compliance: Designed for compatibility with common electrical codes (e.g., NEC in the USA).
+
+For a detailed overview of brand-specific designs and variations, refer to the [Benchmarks Design Catalog]https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/openBox/refs/heads/main&homepage=home.md&edit-link=https://github.com/dmalawey/openBox/refs/heads/blob/main&sidebar=true&browser-tab-title=OpenBox&edit-link-top=true&hide-credits=true&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&name=openBox%20Webpage&zoom-images=true&dark-mode=true#/designs?id=design-catalog. This resource compiles technical sheets, dimensional drawings, and reliable documentation from various manufacturere..
+
+The catalog also includes PDFs drawings obtained from manufacturing highlighting key mechanical features for enhanced clarity and precision in design adaptation.
+
 The OpenBox project was originally created using specifications based on the handy box commonly found in the United States. To open this project to a broader audience, we are expanding its scope and documenting handy box specifications from different countries. Below, you’ll find detailed information for each country to ensure compatibility and usability.
 
 If you’d like to contribute to this effort, don’t hesitate to join us! Your input can help make the OpenBox project more versatile and accessible for everyone.
-
-### USA Handy Box Specifications
-
-- Dimensions: 4” x 2” x 1-7/8” (16.5 cubic inches)
--	Designed for standard NEC (National Electrical Code) compliance.
-
-![image techsheet](img/img_racoData1.jpg 'class=image-25')
-_technical sheets published by manufacturers_
-
-![img_drawing](https://github.com/user-attachments/assets/256211c1-f47f-49f2-863e-14f5fdbfc8e6)
-_dimensional drawings by manufacturers (Raco & more)_
-
-
-We don't have a specific structure for posting data but as I accumulate useful drawings and reliable documentation behind the branded boxes (such as Raco by Hubbel) I will upload the content for others to download.  At times, I markup a PDF with mechanical drawings to point out the key items instead of starting a document from scratch.
-
-### Canadian Handy Box Specifications
-
-The main manufacturer of handy boxes commonly found in Canadian hardware stores is ABB, under their Iberville brand: [2020-CRT](https://new.abb.com/products/7TBA126550R0005/2020-crt) While these boxes are widely used and recognized, ABB has not yet provided a detailed data sheet for the Iberville handy box. This lack of official specifications presents a challenge for precise design adaptations, but we are working to gather the necessary details through direct measurements and other resources.
-
-- Designed for the Canadian Electrical Code (CEC) standards.
-- The key difference in the brackets is that the USA version uses straight mounting brackets, while the Canadian version features angled brackets, requiring design adjustments for compatibility.
-
-### 4” x 2-3/8” x 1-7/8” (16.5 cubic inches)
-
-![Main Manufacturer Image1](img/9PAA00000107738_400x400.jpg)
-![Main Manufacturer Image2](img/9PAA00000107740_400x400.jpg)
-![Main Manufacturer Image3](img/9PAA00000107739_400x400.jpg)
 
 ### Get Involved
 
