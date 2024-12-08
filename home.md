@@ -6,18 +6,6 @@ Everyone is invited to use these designs or contribute to this design on GitHub.
 
 _Latest short link ► https://bit.ly/openboxproject_
 
-
-## More Projects
-More Open Source designs initiated by DM & SCUTTLE team:
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [Mechatronics Resources](https://bit.ly/openmechatronics)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
-* [OpenAir](https://bit.ly/openairproject)
-* [OpenLab](https://bit.ly/openlabproject)
-
 ### Explore
 Don't like reading? just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
 
