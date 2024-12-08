@@ -10,4 +10,4 @@
 - [OpenSpin](https:/bit.ly/openspinproject)
 - [OpenAir](https://bit.ly/openairproject)
 - [OpenLab](https://bit.ly/openlabproject)
-- [David's YouTube Channel)(https://www.youtube.com/@davidmalawey)
+- [David's YouTube Channel](https://www.youtube.com/@davidmalawey)
