@@ -2,4 +2,4 @@
 - [Gallery](gallery)
 - [Downloads](downloads)
 - [Designs](designs)
-- [External Links][externallinks]
+- [External Links](externallinks)
