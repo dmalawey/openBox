@@ -2,3 +2,4 @@
 - [Gallery](gallery)
 - [Downloads](downloads)
 - [Designs](designs)
+- [Other Open projects](openprojects)
