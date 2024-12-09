@@ -7,9 +7,11 @@
    <meta name="description" content="">
    <title>OpenBox</title>
 
-   <!-- Themes (light + dark) -->
-   <!-- Theme: Simple Dark -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
+   <!-- Theme: Simple (light + dark) -->
+<link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+<link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
 
    <!-- Custom Styles -->
    <style>
@@ -24,24 +26,18 @@
    <script>
      // Docsify Configuration
      window.$docsify = {
-      repo: 'davidmalawey/openBox',
-      homepage: 'home.md',
-
-        // load from _navbar.md
-      loadNavbar: true,
-      loadNavbar: '_navbar.md',
-
-      // load from _sidebar.md
-        loadSidebar: true,
-      loadSidebar: '_sidebar.md',
-
-        
+      repo: 'davidmalawey/openBox'
+      homepage: 'home.md'
+      loadNavbar: '_navbar.md'
+      readyTransition : true
+      responsiveTables: true
+      loadSidebar: true,
+      loadSidebar: '_sidebar.md',  
       maxLevel: 3,
       coverpage: false,
       loadSidebar: true,
-     autoHeader: true,
-
-        externalLinkTarget: '_self', // default: '_blank'
+      autoHeader: true,
+      externalLinkTarget: '_self',
      };
      
    </script>
