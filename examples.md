@@ -1,10 +1,16 @@
-## Purpose
-How to use this gallery?  
-1) If you want to make a print or a design, start here and just make a quick review of some designs.  There are many designs, some are deeply documented, and many are photographed.  So, the gallery is easiest to update when we produce new items.  
-2) Find your idea here and then check for more documentation & designs in the other sections.
-3) If you see an item in the gallery but not documented, just send a question.  Use a comment on grabCAD, ask in David's discord, or post an issue here in the Github repository.  Then, the designers can find you and reply.
+# Looking for inspiration or practical examples of how to use OpenBox? Start here!
 
-Enjoy!
+This gallery showcases a variety of examples, including designs and configurations, to help you get started. Some examples are fully documented, while others provide a visual overview for quick reference. The gallery is regularly updated as new items are created and shared.
+
+### Steps to Get Started:
+
+1.	**Browse for Ideas**: Explore the gallery to find designs or workflows that match your needs.
+2.	**Dive Deeper**: For detailed instructions or configurations, check the linked documentation and other sections.
+3.	**Ask Questions**: If you see something in the gallery that isn’t fully documented yet, feel free to reach out:
+- Leave a comment on (GrabCAD)[https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox]
+- Ask in (David’s Discord community)(https://discord.com/channels/1309520786364567594/1314395386408079410).
+- Post an issue in the GitHub repository.
+
 
 ## Organizers
 Designs for holding your toos & equipment & securing them where needed.
@@ -32,8 +38,6 @@ Switches with 22mm circle snap right into place.
 
 ## Embedded Electronics
 We will feature arduino & other MCU based projects but here's the start, with a project for car adapter & embedded power control found in a PD adapter.
-
-**Pictures coming soon!**
 
 ## DC Power
 
