@@ -1,5 +1,5 @@
 - [Home](home)
-- [Gallery](gallery)
+- [Examples of usage](examples)
 - [Downloads](downloads)
 - [Designs](designs)
 - [External Links](externallinks)
