@@ -6,13 +6,20 @@ Openbox is a collection of inventions based on a "handy box," a cheap standard p
 
 Everyone is invited to use these designs or contribute to this design on GitHub.  Design data will be posted on grabCAD.com starting with [handybox](https://grabcad.com/library/handybox-1) and ongoing continually.
 
-## Explore examples of usage
-Don't like reading? just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
+## Explore Examples of Usage
+
+Don’t like reading? Just hop onto [GrabCAD](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=openbox) to dive straight into the OpenBox designs! Check out the [examples of usages](examples.md) for inspiration—though keep in mind it may showcase only a portion of the available designs.
 
 How do you work with OpenBox? Here's one video lesson, of many to come:
+
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/embed/VLrEtrU10ow">Build a DIY power supply for powering electronics</a>
+
+
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Check the different examplkes of usage](examples.md ':class=button-rounded')
+We’re excited to see how you will use OpenBox!
+
+[:fa-solid fa-eye: Discover OpenBox Examples](examples.md ':class=button-rounded')
 
 ## Limitations
 There are no limits.  The example below is a countertop shaver rack, just to show a use case.  The "handybox" brings value to other designs such as:
