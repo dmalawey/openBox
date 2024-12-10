@@ -27,6 +27,10 @@ The spacing in back of the box aligns with ordinary 1x1 inch pegboard
 Or, fasten the box to a composite pegboard with the compatible screws, and still reach the fastener when the openbox is loaded.
 ![pegboard2](img/img_pegboard2.jpg)
 
+Make a business card holder - this one has a wide section for related cards that don't fit regular business card width.
+![bizcard1](img/img_bizcard1.jpg)
+
+
 ## AC Electrical
 For 120v or 240v appliances with custom wires or switches
 
