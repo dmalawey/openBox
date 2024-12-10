@@ -12,7 +12,7 @@ Don't like reading? just hop onto grabCAD and jump into the designs!  Also see t
 How do you work with OpenBox? Here's one video lesson, of many to come:
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Visit different example of usage](examples.md ':class=button')
+[Check the different examplkes of usage](examples.md ':class=button-rounded')
 
 ## Limitations
 There are no limits.  The example below is a countertop shaver rack, just to show a use case.  The "handybox" brings value to other designs such as:
