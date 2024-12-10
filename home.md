@@ -1,5 +1,3 @@
-davidmalawey.com/openBox
-
 # Topics
 
 ## Introduction
@@ -8,15 +6,13 @@ Openbox is a collection of inventions based on a "handy box," a cheap standard p
 
 Everyone is invited to use these designs or contribute to this design on GitHub.  Design data will be posted on grabCAD.com starting with [handybox](https://grabcad.com/library/handybox-1) and ongoing continually.
 
-_Latest short link ► https://bit.ly/openboxproject_
-
 ## Explore examples of usage
 Don't like reading? just hop onto grabCAD and jump into the designs!  Also see the [image gallery](gallery.md) but be aware it may contain only a portion of the designs.
 
 How do you work with OpenBox? Here's one video lesson, of many to come:
 <iframe width="703" src="https://www.youtube.com/embed/VLrEtrU10ow" title="Build a DIY power supply for powering electronics - using openBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Visit different example of usage](examples.md':class=button')
+[Visit different example of usage](examples.md ':class=button')
 
 ## Limitations
 There are no limits.  The example below is a countertop shaver rack, just to show a use case.  The "handybox" brings value to other designs such as:
@@ -32,7 +28,7 @@ Suitable 3D printed designs for openBox can enable your electronics projects & b
 ![demo_electrical](img/img_demo2.jpg 'class=image-25')
 
 ## Mechanical
-_mechanical features & designs_
+
 The heavy steel stamping is a perfect starting point for many mechanical designs.  Over time, we will feature static figures such as customizable camera mounts, pivoting structures, attachments for parts storage, and dynamic assemblies (you could even call them robots).
 
 ## Interfacing
